@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{3014ECFB-BE6E-31F5-46B7-9EB066372398}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UpgradeManager.cs">
+    <Files>
+      <File FileName="Assets/FishClicker.cs" Line="40" Column="6" />
+      <File FileName="Assets/MoneyDisplay.cs" Line="10" Column="1" />
+      <File FileName="Assets/Upgrade.cs" Line="11" Column="58" />
+      <File FileName="Assets/FishMovement.cs" Line="9" Column="26" />
+      <File FileName="Assets/MoneyOnClickDisplay.cs" Line="18" Column="32" />
+      <File FileName="Assets/MoneyOnClickDisplay.cs" Line="21" Column="67" />
+      <File FileName="Assets/ClickPowerDisplay.cs" Line="9" Column="1" />
+      <File FileName="Assets/AutoClickUpgrade.cs" Line="26" Column="37" />
+      <File FileName="Assets/UpgradeManager.cs" Line="31" Column="1" />
+      <File FileName="Assets/MoneyPerSecDisplay.cs" Line="20" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="46cefddb-ac41-4689-a1e9-ba98258584f4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
